@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: 'Ubuntu', sans-serif;
+    color: #333;
+}
+
+.container {
+    text-align: left;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: white;
+    width: 50%;
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+p, .ticket-info {
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+.ticket-info strong {
+    font-weight: bold;
+}

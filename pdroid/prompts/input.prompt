@@ -1,0 +1,23 @@
+```title
+{title}
+```
+
+```attribute
+<xml>
+<title>
+Descriptive title for the task.
+</title>
+<description>
+Detailed and comprehensive description of the task to be done based on the provided title.
+</description>
+<story>
+Informal, general explanation of a software feature written from the perspective of the end user. Use the following general format for each influenced end user, "As a [persona], I [want to], [so that]." There may be multiple end users who benefit from this task.
+</story>
+<subtask>
+Set of singular and atomic subtasks that need to be completed for the software developer to successfully complete the task.
+</subtask>
+<acceptance-criteria>
+Set of criterias that need to be achieved for the task to be considered successfully accomplished.
+</acceptance-criteria>
+</xml>
+```
