@@ -1,3 +1,5 @@
+"""File for defining application and serving of templates using Flask."""
+
 from flask import Flask, render_template, request
 from lib import generate_ticket
 

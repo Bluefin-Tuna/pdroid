@@ -1,3 +1,5 @@
+"""File for loading in important environment and configuration variables for use throughout the application."""
+
 from dotenv import load_dotenv, find_dotenv
 import os
 

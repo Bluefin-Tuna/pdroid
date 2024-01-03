@@ -17,6 +17,8 @@ body {
     background-color: white;
     width: 50%;
     max-width: 600px;
+    max-height: 80vh;
+    overflow-y: auto;
 }
 
 h1 {

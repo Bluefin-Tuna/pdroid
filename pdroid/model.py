@@ -1,3 +1,5 @@
+# Model Configuration and Instantiation (GPT-4)
+
 from langchain.chat_models import ChatOpenAI
 from config import OPENAI_API_KEY
 
